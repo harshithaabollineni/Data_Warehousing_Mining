@@ -1,7 +1,4 @@
-# Data_Warehousing_Mining
 # Data Warehouse Architecture Design and Implementation
-
-## Project Overview
 
 This repository contains the practical implementation of Data Warehouse Architecture Design and Implementation using PostgreSQL and pgAdmin 4. It covers two important approaches to database design: Normalized Modelling and Dimensional Modelling. Both approaches are implemented using a retail sales dataset to understand how data can be organized, stored, and analyzed efficiently.
 
